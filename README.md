@@ -1,4 +1,4 @@
-# COMP-6771-Image-Processing
+# comp-6771-image-processing
 This course was mainly about digital image fundamentals including:
 1. image transforms (Fourier, Haar, wavelet), 
 2. image enhancement (histogram processing, spatial filtering, high- and low-pass filtering), image restoration, 
